@@ -1,6 +1,5 @@
 # Learning-based-pose-estimation-for-a-soft-endoluminal-robot
-code for the paper
+Updating in progress and would be made public soon in the future... 
 
-Huang H, Merlin J, Stoyanov.D, Bano S, Lindenroth L. Learning-based Pose Estimation for Controlling 
-Membrane-actuated Soft Robots. Frontiers of Robotic and AI, Machine Learning Techniques for Soft 
-Robots, Volume II
+code for the paper "Learning-based Pose Estimation for Controlling 
+Membrane-actuated Soft Robots"
